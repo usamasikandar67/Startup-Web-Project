@@ -1,0 +1,12 @@
+div{
+    color: rgb(0, 255, 81);
+    text-align: center;
+    border: 20px;
+    background: #df1a1a;
+    display: 
+}
+@media max-width(400px){
+    #box-1{
+        display: block;
+    }
+}
